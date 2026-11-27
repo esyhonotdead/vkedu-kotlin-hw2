@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">vk_edu_kotlin_hw2</string>
+    <string name="gif_loading_error">Error loading gifs</string>
+    <string name="retry">Retry</string>
+    <string name="no_gifs">GIF not found</string>
+    <string name="gif_index">Gif index: %1$d</string>
+    <string name="home_screen_app_bar_title">Giftrest</string>
+    <string name="search">Search</string>
+    <string name="search_gifs">Search GIFs</string>
+    <string name="gif_search_query">Search term</string>
+    <string name="gif_search_rating">Content rating</string>
+    <string name="gif_rating_g">G</string>
+    <string name="gif_rating_pg">PG</string>
+    <string name="gif_rating_pg_13">PG-13</string>
+    <string name="gif_rating_r">R</string>
+    <string name="home">Home</string>
+    <string name="cancel">Cancel</string>
 </resources>
